@@ -1,9 +1,18 @@
 import logo from './logo.svg';
 import './App.css';
+import Demo from "./demo";
+
+// Functional components - modern way of writing components
+// class based components
 
 function App() {
+
   return (
-    <div className="App">
+    <div className="App"  style={{padding: '50px'}}>
+
+      <Demo />
+      <br/>
+      <br/>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -18,6 +27,7 @@ function App() {
           Learn React
         </a>
       </header>
+      {/*JSX*/}
     </div>
   );
 }
