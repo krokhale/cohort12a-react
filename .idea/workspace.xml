@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2cd2952-f413-42a0-a6d9-b9b084627f7e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/giphy-image.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/giphy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calculator.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my-button.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/my-button.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +43,8 @@
       <updated>1612837434896</updated>
       <workItem from="1612837438917" duration="4819000" />
       <workItem from="1613009066355" duration="5475000" />
-      <workItem from="1613441023784" duration="4970000" />
+      <workItem from="1613441023784" duration="5619000" />
+      <workItem from="1613613652090" duration="3488000" />
     </task>
     <servers />
   </component>

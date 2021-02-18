@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Demo from "./demo";
 import Giphy from "./giphy";
+import Calculator from "./calculator";
 
 // Functional components - modern way of writing components
 // class based components
@@ -13,7 +14,11 @@ function App() {
 
       {/*<Demo />*/}
       {/*<Giphy />*/}
-      <Giphy />
+
+      {/*<Giphy />*/}
+
+      <Calculator />
+
 
       {/*<br/>*/}
       {/*<br/>*/}
