@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2cd2952-f413-42a0-a6d9-b9b084627f7e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/calculator.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +45,8 @@
       <workItem from="1612837438917" duration="4819000" />
       <workItem from="1613009066355" duration="5475000" />
       <workItem from="1613441023784" duration="5619000" />
-      <workItem from="1613613652090" duration="3488000" />
+      <workItem from="1613613652090" duration="4715000" />
+      <workItem from="1614046371553" duration="2831000" />
     </task>
     <servers />
   </component>
